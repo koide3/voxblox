@@ -33,3 +33,5 @@ rviz -d docker/voxblox.rviz
 ```
 
 data.bag (cow and lady dataset): https://projects.asl.ethz.ch/datasets/doku.php?id=iros2017/
+
+![voxblox](https://user-images.githubusercontent.com/31344317/98347894-61cefd00-205b-11eb-97d7-45dcb501014e.gif)
